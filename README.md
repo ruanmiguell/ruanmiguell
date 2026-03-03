@@ -1,8 +1,8 @@
 ## 👨🏽‍💻Ruan Miguel 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Ruan, 18 anos | Estudante de ADS no IFPE.                                                                                                                       
-Estou iniciando na área de tecnologia, aprendendo programação do zero e construindo meus primeiros projetos com foco em lógica e prática constante. Busco evoluir na área de TI e conquistar minha primeira oportunidade de estágio.
+Meu nome é Ruan Miguel, tenho 18 anos e sou Pernambucano.                                                                          
+Estou Iniciando na área de tecnologia, aprendendo programação do zero e construindo meus primeiros projetos com foco em lógica e prática constante. Busco evoluir na área de TI e conquistar minha primeira oportunidade de estágio.
 
 ### 🤖 Linguagens em aprendizado
 <img 
