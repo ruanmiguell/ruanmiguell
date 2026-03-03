@@ -1,4 +1,4 @@
-## # 👨🏽‍💻Ruan Miguel 
+## 👨🏽‍💻Ruan Miguel 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Meu nome é Ruan, tenho 18 anos e sou Pernambucano.
