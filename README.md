@@ -1,5 +1,5 @@
 ## 👨🏽‍💻Ruan Miguel 
-**`Estudante de Análise e Desenvolvimento de Sistemas`**
+**`Cursando Análise e Desenvolvimento de Sistemas`**
 
 Meu nome é Ruan Miguel, tenho 18 anos e sou Pernambucano.                                                                          
 Estou Iniciando na área de tecnologia, aprendendo programação do zero e construindo meus primeiros projetos com foco em lógica e prática constante. Busco evoluir na área de TI e conquistar minha primeira oportunidade de estágio.
